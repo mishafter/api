@@ -1,0 +1,82 @@
+2020-04-03 23:49:09 [192.168.1.140][-][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 192.168.1.140
+    in /home/mishafter/mysite/mysite/views/layouts/main.php:78
+    in /home/mishafter/mysite/mysite/controllers/SiteController.php:64
+2020-04-03 23:49:09 [192.168.1.140][-][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 192.168.1.140
+2020-04-03 23:49:09 [192.168.1.140][-][-][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = []
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/mishafter/mysite/mysite/web'
+    'REMOTE_ADDR' => '192.168.1.140'
+    'REMOTE_PORT' => '65254'
+    'SERVER_SOFTWARE' => 'PHP 7.2.24-0ubuntu0.18.04.3 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => '0.0.0.0'
+    'SERVER_PORT' => '8000'
+    'REQUEST_URI' => '/'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/mishafter/mysite/mysite/web/index.php'
+    'PHP_SELF' => '/index.php'
+    'HTTP_HOST' => '192.168.1.103:8000'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7'
+    'REQUEST_TIME_FLOAT' => 1585957749.3097
+    'REQUEST_TIME' => 1585957749
+]
+2020-04-04 02:42:18 [192.168.1.140][-][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 192.168.1.140
+    in /home/mishafter/mysite/mysite/views/layouts/main.php:78
+    in /home/mishafter/mysite/mysite/controllers/SiteController.php:64
+2020-04-04 02:42:18 [192.168.1.140][-][-][warning][yii\debug\Module::checkAccess] Access to debugger is denied due to IP address restriction. The requesting IP address is 192.168.1.140
+2020-04-04 02:42:17 [192.168.1.140][-][-][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'psfvubm8ln06q6s8chu9c57rif'
+    '_csrf' => '2ab7af23856266377ab632564bafd917640c4f344ba40c088bbc012ea67346baa:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"15C6YYdcKEvIU7LurO0y0DuJmfc5SJQl\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/mishafter/mysite/mysite/web'
+    'REMOTE_ADDR' => '192.168.1.140'
+    'REMOTE_PORT' => '55197'
+    'SERVER_SOFTWARE' => 'PHP 7.2.24-0ubuntu0.18.04.3 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => '0.0.0.0'
+    'SERVER_PORT' => '8000'
+    'REQUEST_URI' => '/'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/mishafter/mysite/mysite/web/index.php'
+    'PHP_SELF' => '/index.php'
+    'HTTP_HOST' => '192.168.1.103:8000'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_ACCEPT_LANGUAGE' => 'ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7'
+    'HTTP_COOKIE' => 'PHPSESSID=psfvubm8ln06q6s8chu9c57rif; _csrf=2ab7af23856266377ab632564bafd917640c4f344ba40c088bbc012ea67346baa%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%2215C6YYdcKEvIU7LurO0y0DuJmfc5SJQl%22%3B%7D'
+    'REQUEST_TIME_FLOAT' => 1585968137.8788
+    'REQUEST_TIME' => 1585968137
+]
